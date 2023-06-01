@@ -17,7 +17,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
+https://github.com/aashayKaurav/Text-Summarizer-NLP.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -117,7 +117,7 @@ Email: aashay.kaurav@gmail.com
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI = demo >>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = simple-app
 
